@@ -1,6 +1,6 @@
 # Codewars Profile Link
 
-Access my solutions below
+Access my solutions belown (Copy and paste into URL search)
 
-[https://www.codewars.com/users/Abukar]()
+https://www.codewars.com/users/Abukar
 
